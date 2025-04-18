@@ -2,7 +2,7 @@
 
 A responsive, modern image slider built using [Swiper.js](https://swiperjs.com/) and custom HTML/CSS/JavaScript. Each slide features an inspiring quote, a unique background, and smooth navigation controls.
 
-## [Click To See Live Demo](ttps://hassanhajizadeh-image-slider.netlify.app)
+## [Click To See Live Demo](https://hassanhajizadeh-image-slider.netlify.app)
 
 ## 🚀 Features
 
